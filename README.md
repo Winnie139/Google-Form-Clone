@@ -10,7 +10,7 @@ A clone of a vendor event registration form that allows vendors to fill in their
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Feautures] (#features)
+  - [Feautures](#features)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -32,7 +32,7 @@ This is the screenshot of my solution.
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://winnie139.github.io/Google-Form-Clone/)
 
 ## My process
 
